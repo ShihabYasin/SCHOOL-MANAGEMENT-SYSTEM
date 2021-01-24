@@ -1,4 +1,4 @@
-Project Name: SCHOOL MANAGEMENT SYSTEM
+### Project Name: SCHOOL MANAGEMENT SYSTEM
 
 Implemented in Java with Oracle 10g.
 IDE: Netbeans IDE 8.0
